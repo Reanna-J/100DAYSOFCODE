@@ -1,24 +1,32 @@
 #Escaping the Maze
-#Platform: Reeborg's World
-#https://reeborg.ca
+# Hurdle 3 Solution
+# Platform: Reeborg's World
+# Website: https://reeborg.ca
+#
+# How to run:
+# 1. Open Reeborg's World
+# 2. Select "Hurdle 3" from the world dropdown
+# 3. Select Python as the language
+# 4. Paste this code into the editor
+# 5. Click the Run button
 
 def turn_right():
     turn_left()
     turn_left()
     turn_left()
 
-while front_is_clear():
+def jump():
+    turn_left()
     move()
-
-turn_left()
+    turn_right()
+    move()
+    turn_right()
+    move()
+    turn_left()
 
 while not at_goal():
-    if right_is_clear():
-        turn_right()
-        move()
-
-    elif front_is_clear():
-        move()
-
+    if wall_in_front():
+        jump()
     else:
-        turn_left()
+        move()
+```
