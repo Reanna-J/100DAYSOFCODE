@@ -53,6 +53,4 @@ Completed: 14 / 100 Days
 
 More projects will be added regularly as I continue the challenge.
 
----
-
 Thanks for visiting this repository.
