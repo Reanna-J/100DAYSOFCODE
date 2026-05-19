@@ -26,6 +26,10 @@ The goal of this challenge is to improve my Python programming skills through co
 * Day 13 – Debugging Exercises
 * Day 14 – Higher Lower Game
 
+### Week 3
+
+* Day 15 - Coffee Machine Project
+  
 ## What I’m Learning
 
 * Python fundamentals
@@ -49,7 +53,7 @@ Day003-Treasure Island.py
 
 ## Progress
 
-Completed: 14 / 100 Days
+Completed: 15 / 100 Days
 
 More projects will be added regularly as I continue the challenge.
 
