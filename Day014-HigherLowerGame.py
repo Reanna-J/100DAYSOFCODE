@@ -40,7 +40,7 @@ while game_should_continue:
     if check_answer(guess, a_followers, b_followers):
         score += 1
         print(f"You're right! Current score: {score}")
-
+        print(f"Use")
         account_a = account_b
 
     else:
