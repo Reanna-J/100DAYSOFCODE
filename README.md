@@ -29,6 +29,7 @@ The goal of this challenge is to improve my Python programming skills through co
 ### Week 3
 
 * Day 15 - Coffee Machine Project
+* Day 16 - Coffee Machine Project using OOP
   
 ## What I’m Learning
 
@@ -53,7 +54,7 @@ Day003-Treasure Island.py
 
 ## Progress
 
-Completed: 15 / 100 Days
+Completed: 16 / 100 Days
 
 More projects will be added regularly as I continue the challenge.
 
