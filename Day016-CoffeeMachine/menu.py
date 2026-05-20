@@ -17,7 +17,6 @@ class Menu:
         ]
 
     def get_items(self):
-        """Return string of available drinks"""
         options = ""
         for item in self.menu:
             options += f"{item.name}/"
