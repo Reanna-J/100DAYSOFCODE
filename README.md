@@ -30,16 +30,8 @@ The goal of this challenge is to improve my Python programming skills through co
 
 * Day 15 - Coffee Machine Project
 * Day 16 - Coffee Machine Project using OOP
+* Day 17 - IPL 2026 Quiz Game
   
-## What I’m Learning
-
-* Python fundamentals
-* Functions and loops
-* Problem solving
-* Debugging
-* Game logic
-* Git and GitHub
-* Writing cleaner and more organized code
 
 ## Repository Structure
 
@@ -54,7 +46,7 @@ Day003-Treasure Island.py
 
 ## Progress
 
-Completed: 16 / 100 Days
+Completed: 17 / 100 Days
 
 More projects will be added regularly as I continue the challenge.
 
