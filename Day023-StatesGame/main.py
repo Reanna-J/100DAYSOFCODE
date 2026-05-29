@@ -3,12 +3,8 @@ import pandas
 
 screen = turtle.Screen()
 screen.title("India States Game")
-
-image = "blank_states_img.gif"
-
-screen.addshape(image)
-turtle.shape(image)
-
+screen.setup(width=800, height=800)   # adjust to your gif size
+screen.bgpic("blank_states_img.gif")
 data = pandas.read_csv("28_states.csv")
 all_states = data.state.to_list()
 guessed_states = []
