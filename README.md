@@ -38,6 +38,8 @@ The goal of this challenge is to improve my Python programming skills through co
 * Day 19 - Etch-A-Sketch
 * Day 20 - Turtle Race
 * Day 21 - Snake Game
+* Day 22 - Snake Game (new)
+* Day 23 - States Game
   
 ## Repository Structure
 
@@ -52,7 +54,7 @@ Day003-Treasure Island.py
 
 ## Progress
 
-Completed: 21 / 100 Days
+Completed: 23 / 100 Days
 
 More projects will be added regularly as I continue the challenge.
 
