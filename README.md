@@ -32,7 +32,13 @@ The goal of this challenge is to improve my Python programming skills through co
 * Day 16 - Coffee Machine Project using OOP
 * Day 17 - IPL 2026 Quiz Game
   
+### Week 4
 
+* Day 18 - Hirst Painting
+* Day 19 - Etch-A-Sketch
+* Day 20 - Turtle Race
+* Day 21 - Snake Game
+  
 ## Repository Structure
 
 Each project is uploaded with the corresponding day number:
@@ -46,7 +52,7 @@ Day003-Treasure Island.py
 
 ## Progress
 
-Completed: 17 / 100 Days
+Completed: 21 / 100 Days
 
 More projects will be added regularly as I continue the challenge.
 
