@@ -1,0 +1,20 @@
+🎮 HOW TO PLAY PONG
+
+• This is a 2-player Pong game.
+• Prevent the ball from crossing your side.
+• Each miss gives the opponent 1 point.
+
+🎮 Controls:
+Left Player:
+W → Move Up
+S → Move Down
+
+Right Player:
+↑ Arrow Key → Move Up
+↓ Arrow Key → Move Down
+
+❌ Quit Game:
+Press Q to exit the game.
+
+🏆 Objective:
+Score points by making your opponent miss the ball!
