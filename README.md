@@ -41,7 +41,10 @@ The goal of this challenge is to improve my Python programming skills through co
 * Day 22 - Snake Game (new)
 * Day 23 - States Game
 * Day 24 - Pong Game
-  
+
+### Week 5
+E-Commerce Cohort Analysis (using Pandas and NumPy)
+
 ## Repository Structure
 
 Each project is uploaded with the corresponding day number:
@@ -55,7 +58,7 @@ Day003-Treasure Island.py
 
 ## Progress
 
-Completed: 24 / 100 Days
+Completed: 31 / 100 Days
 
 More projects will be added regularly as I continue the challenge.
 
