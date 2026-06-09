@@ -1,0 +1,48 @@
+
+================================================================
+E-COMMERCE CUSTOMER INTELLIGENCE REPORT
+================================================================
+
+Transactions: 397,885
+Customers: 4,338
+Countries: 37
+
+Total Revenue: $8,911,425.90
+Average Order Value: $480.87
+
+Median LTV: $674.49
+VIP Threshold (Top 10%): $3646.53
+
+Highest Month-1 Retention: 36.61%
+Peak Sales Hour: 12:00
+Top Country: United Kingdom
+
+Transactions > 3 Std Dev: 344
+Customers Driving 80% Revenue: 1132
+
+Top 10 Products:
+Description
+PAPER CRAFT , LITTLE BIRDIE           168469.60
+REGENCY CAKESTAND 3 TIER              142592.95
+WHITE HANGING HEART T-LIGHT HOLDER    100448.15
+JUMBO BAG RED RETROSPOT                85220.78
+MEDIUM CERAMIC TOP STORAGE JAR         81416.73
+POSTAGE                                77821.96
+PARTY BUNTING                          68844.33
+ASSORTED COLOUR BIRD ORNAMENT          56580.34
+Manual                                 53779.93
+RABBIT NIGHT LIGHT                     51346.20
+
+Top 10 Customers:
+CustomerID
+14646.0    280206.02
+18102.0    259657.30
+17450.0    194550.79
+16446.0    168472.50
+14911.0    143825.06
+12415.0    124914.53
+14156.0    117379.63
+17511.0     91062.38
+16029.0     81024.84
+12346.0     77183.60
+================================================================
